@@ -6,5 +6,7 @@
         -118.116525, 
         33.880855
     ],
-    "zoom": 9.5
+    "zoom": 9.5,
+    "pitch": 40,
+    "customattribution": "<a href='http://historicplaces.org' target='_blank'>Hisoric Places LA</a> | <a href='http://boundaries.latimes.com/' target='>LA Times</a?"
 }
